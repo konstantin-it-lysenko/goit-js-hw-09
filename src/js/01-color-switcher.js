@@ -26,4 +26,3 @@ function stopBtnHandler() {
 
     clearInterval(timerId);
 }
-
